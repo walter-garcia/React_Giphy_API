@@ -4,13 +4,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## [Live Demo](https://gifted-knuth-7587a0.netlify.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-#### `yarn` to install all dependencies
+##### `yarn` to install all dependencies
 
-#### `npm start` or `yarn start` to start the application
+##### `npm start` or `yarn start` to start the application
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
